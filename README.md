@@ -22,5 +22,5 @@ A simple Tic Tac Toe game implemented using Jetpack Compose in Android. The game
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/n-mandadapu/tic-tac-toe.git
    cd tic-tac-toe
